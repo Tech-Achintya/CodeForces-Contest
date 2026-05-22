@@ -1,0 +1,15 @@
+# Ignore any directory named output anywhere in the repo
+output/
+
+# Ignore compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore Visual Studio Code workspace settings and tasks
+.vscode/
+
+# Ignore temporary files
+*.tmp
+*.log
